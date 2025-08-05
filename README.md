@@ -9,14 +9,14 @@ badge&amp;logo=spring-boot&amp;logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-
 badge&amp;logo=mongodb&amp;logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-
-badge&amp;logo=git&amp;logoColor=white)
+badge&amp;logo=git&amp;logoColor=red)
 ## �� GitHub Stats
 ![GitHub Stats](https://github-readme-
-stats.vercel.app/api?username=renukacsit&amp;show_icons=true&amp;theme=radical)
+stats.vercel.app/api?username=saipavan481&amp;show_icons=true&amp;theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-
-langs/?username=renukacsit&amp;layout=compact)
-## �� Connect with Me- ✉️ Email: pavan@example.com- �� LinkedIn: [pavan
+langs/?username=saipavan481&amp;layout=compact)
+## �� Connect with Me- ✉️ Email: saipavan143214@gmail.com- �� LinkedIn: [pavan
 Profile](https://linkedin.com/in/renuka-example)
 ![Static Badge](https://img.shields.io/badge/devops-red?style=for-the-badge&logo=java&logoColor=red&label=java)
 ![GitHub Stats](https://github-readme-
-stats.vercel.app/api?username=renuka1163&amp;show_icons=true)
+stats.vercel.app/api?username=saipavan481&amp;show_icons=true)
